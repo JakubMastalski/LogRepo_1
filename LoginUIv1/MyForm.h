@@ -344,8 +344,6 @@ private: System::Void checkBox1_CheckedChanged(System::Object^ sender, System::E
 	{
 		button1->Enabled = false;
 	}
-	
-	
 }
 };
 }

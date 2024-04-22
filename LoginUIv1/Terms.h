@@ -87,7 +87,7 @@ namespace $safeprojectname$ {
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->BackColor = System::Drawing::Color::Blue;
-			this->ClientSize = System::Drawing::Size(741, 530);
+			this->ClientSize = System::Drawing::Size(831, 588);
 			this->Controls->Add(this->textBox1);
 			this->Controls->Add(this->button2);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedDialog;
